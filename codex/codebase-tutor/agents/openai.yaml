@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codebase Tutor"
+  short_description: "Trace codebase flows one file at a time"
+  default_prompt: "Use $codebase-tutor to trace a representative execution flow through this repository and teach it one file at a time."
